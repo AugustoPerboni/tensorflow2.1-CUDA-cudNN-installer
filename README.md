@@ -2,6 +2,7 @@
 This guide will help you seamlessly install CUDA and cuDNN for TensorFlow 2.14 on your Ubuntu machine. Please follow the steps diligently. 🛠️
 
 ## Prerequisites 📋
+- Always check the [compatibility table](https://www.tensorflow.org/install/source#gpu) from tensorflow to be sure that the installed versions
 - Ensure you have administrative rights on your machine.
 - Download the cuDNN Debian Local Installation file from the [official NVIDIA website](https://developer.nvidia.com/cudnn).
 - Place the downloaded cuDNN file in the same directory as the installation script.
